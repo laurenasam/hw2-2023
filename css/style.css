@@ -61,7 +61,7 @@ body {
     color: #707070;
     text-align: right;
     margin-left: 50px;
-    border-width: 0px 0px 5px 2px;
+    border-width: 0px 0px 2px 5px;
   }
 
   .green {
@@ -80,7 +80,6 @@ body {
       #0000ff 70%,
       #0066ff 90%,
       #000000 100%)
-
   }
 
   footer>p {
